@@ -1,2 +1,2 @@
-# CatPlugins
-Additional plugin for catuserbot
+# kendyyPlugins
+Additional plugin for kendyyUBT 
